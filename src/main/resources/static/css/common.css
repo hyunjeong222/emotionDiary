@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'Ownglyph_ryuttung-Rg';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2405-2@1.0/Ownglyph_ryuttung-Rg.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+	margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, input, select, textarea, button {
+    color: #2c3338;
+    max-width: 100%;
+    font-family: "Ownglyph_ryuttung-Rg";
+    font-size: 14px;
+    max-width: 100%;
+}
+
+button {
+	outline: none;
+    cursor: pointer;
+}
+
+img {
+    max-width: 100%;
+	border: 0;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+a {
+    text-decoration: none;
+    background-color: transparent;
+}
+
+#container {
+    background-color: #fff;
+    max-width: 600px;
+    width: 100%;
+    margin: 0 auto;
+    min-height: 100vh;
+    height: 100%;
+    box-shadow: #64646433 0 0 29px;
+    padding: 0 20px;
+}
