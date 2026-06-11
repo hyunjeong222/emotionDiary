@@ -59,7 +59,7 @@
 
 | 이름   | GitHub                                         | 개발  | 역할                                  |
 | ------ | ---------------------------------------------- | ------- | -------------------------------------|
-| 정현정 | <a href="https://github.com/hyunjeong222"><img src="https://github.com/hyunjeong222.png" width="100"></a> | BE | <ul><br><li>JWT + Redis 기반 로그인 구현</li> <li>REST API 설계 및 구현</li> <li>fetch를 활용한 프론트-백엔드 API 연동</li> <li>Spring Data JPA를 활용한 회원 및 일기 CRUD 구현</li><br></ul> |
+| 정현정 | <a href="https://github.com/hyunjeong222"><img src="https://github.com/hyunjeong222.png" width="100"></a> | BE/FE | <ul><br><li>JWT + Redis 기반 로그인 구현</li> <li>REST API 설계 및 구현</li> <li>fetch를 활용한 프론트-백엔드 API 연동</li> <li>Spring Data JPA를 활용한 회원 및 일기 CRUD 구현</li><br></ul> |
 <br>
 
 ### 🔗 ERD
