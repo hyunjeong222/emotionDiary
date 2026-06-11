@@ -30,14 +30,14 @@
 
 #### Backend
 
-- Java : 17
-- SpringBoot : 3.3.2
+- Java 17
+- SpringBoot 3.3.2
 - Gradle
-- ORM : Spring Data JPA (Hibernate)
+- Spring Data JPA (Hibernate)
 
 #### DataBase
 
-- MySQL : 8.0.34
+- MySQL 8.0.34
 
 #### Security
 
